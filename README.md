@@ -26,13 +26,13 @@
 ## **The Different Sections**
 
 1. Main Page
-<img width="404" alt="Screenshot 2022-11-12 at 5 39 04 pm" src="https://user-images.githubusercontent.com/84588883/201496486-7cf6048c-7aac-4529-af7e-04113e713a3f.png">
+<img width="468" alt="Screenshot 2022-11-12 at 10 14 20 pm" src="https://user-images.githubusercontent.com/84588883/201496778-df95c584-a797-4243-a405-b6feefc7cc8e.png">
 2. Account Creation Page
-<img width="359" alt="Screenshot 2022-11-12 at 5 39 17 pm" src="https://user-images.githubusercontent.com/84588883/201496493-a748ea2d-6ab3-4298-9bf4-d5e7e9dd9cdd.png">
+<img width="467" alt="Screenshot 2022-11-12 at 10 16 27 pm" src="https://user-images.githubusercontent.com/84588883/201496780-59955965-bc3f-4041-937d-c90d0003be0c.png">
 3. Login Page
-<img width="358" alt="Screenshot 2022-11-12 at 5 39 27 pm" src="https://user-images.githubusercontent.com/84588883/201496500-7e8864ee-dfda-41c0-9135-e0cd497760f5.png">
+<img width="462" alt="Screenshot 2022-11-12 at 10 17 23 pm" src="https://user-images.githubusercontent.com/84588883/201496788-ceb1236f-0ca1-48d0-9e8b-388e9fd2d630.png">
 4. Email Composing Page
-<img width="506" alt="Screenshot 2022-11-12 at 5 39 41 pm" src="https://user-images.githubusercontent.com/84588883/201496504-21686910-096e-4d56-a169-d7e183207222.png">
+<img width="612" alt="Screenshot 2022-11-12 at 10 19 41 pm" src="https://user-images.githubusercontent.com/84588883/201496796-3170d3ec-1733-47ee-8a51-0c630b55a5fd.png">
 
 ## **How to use**
 
