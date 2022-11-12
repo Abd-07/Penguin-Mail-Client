@@ -26,13 +26,13 @@
 ## **The Different Sections**
 
 1. Main Page
-**image 1**
+<img width="404" alt="Screenshot 2022-11-12 at 5 39 04 pm" src="https://user-images.githubusercontent.com/84588883/201496486-7cf6048c-7aac-4529-af7e-04113e713a3f.png">
 2. Account Creation Page
-**image 2**
+<img width="359" alt="Screenshot 2022-11-12 at 5 39 17 pm" src="https://user-images.githubusercontent.com/84588883/201496493-a748ea2d-6ab3-4298-9bf4-d5e7e9dd9cdd.png">
 3. Login Page
-**image 3**
+<img width="358" alt="Screenshot 2022-11-12 at 5 39 27 pm" src="https://user-images.githubusercontent.com/84588883/201496500-7e8864ee-dfda-41c0-9135-e0cd497760f5.png">
 4. Email Composing Page
-**image 4**
+<img width="506" alt="Screenshot 2022-11-12 at 5 39 41 pm" src="https://user-images.githubusercontent.com/84588883/201496504-21686910-096e-4d56-a169-d7e183207222.png">
 
 ## **How to use**
 
